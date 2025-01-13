@@ -1,0 +1,8 @@
+/* fonts.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root {
+    --main_font: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --main_colour: rgb(75, 85, 99);
+
+}
