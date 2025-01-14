@@ -454,3 +454,7 @@ footer{
     color: var(--main_colour);
     font-size: 12px;
 }
+
+.course1:hover, .course2:hover{
+    box-shadow: 2px 2px 15px rgb(197, 194, 194);
+}
